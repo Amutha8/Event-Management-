@@ -1,0 +1,50 @@
+.con
+{   
+    border:2px solid white;
+    height:580px;
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    background-image: url('https://png.pngtree.com/background/20210709/original/pngtree-business-background-banner-business-website-picture-image_306168.jpg');
+    background-repeat: no-repeat;
+    background-position:fixed;
+    background-size: 100% 100%;
+}
+
+.as
+{
+    border:2px solid white;
+    display: flex;
+    justify-content:center;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    margin-top: 130px;
+
+}
+.a1
+{
+    border:2px solid white;
+    height:400px;
+    width:20%;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    background-color: white;
+    
+
+}
+.a2
+{
+    border:2px solid white;
+    height:400px;
+    width:20%;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    background-color: white;
+   
+}
+.a3
+{
+    border:2px solid white;
+    height:400px;
+    width:20%;
+    box-shadow:0 4px 8px rgba(0,0,0,0.2);
+    background-color: white;
+}

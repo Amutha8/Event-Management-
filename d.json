@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "username": "amu",
+      "password": "123",
+      "id": "c4a7"
+    },
+    {
+      "id": "520d",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "events": [
+    {
+      "id": "2",
+      "name": "conference",
+      "guest": "BBB",
+      "date": "11.3.20242",
+      "Location": "seminar hall",
+      "image": "https://www.shutterstock.com/image-photo/speaker-giving-talk-on-corporate-600nw-481869205.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Conference",
+      "guest": "BBB",
+      "date": "12.4.2024",
+      "Location": "Seminar Hall",
+      "image": "https://www.shutterstock.com/image-photo/speaker-giving-talk-on-corporate-600nw-481869205.jpg"
+    }
+  ],
+  "book": [
+    {
+      "name": "a",
+      "phno": "987",
+      "add": "snkl",
+      "tick": "2",
+      "id": "1de7"
+    }
+  ]
+}

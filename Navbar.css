@@ -1,0 +1,20 @@
+.navigation
+{
+    background-color:#9fd3c7;
+    width:100%;
+    height:40px;
+    display:flex;
+    justify-content:space-evenly;
+}
+.navi1
+{
+    background-color:#9fd3c7;
+    width:100%;
+    height:40px;
+    display:flex;
+    justify-content:space-evenly;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+}
